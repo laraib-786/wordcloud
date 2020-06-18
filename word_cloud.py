@@ -1,4 +1,4 @@
-# Here are all the installs and imports you will need for your word cloud script and uploader widget
+# Here are all the installs and imports you will need for your word cloud script 
 
 
 
